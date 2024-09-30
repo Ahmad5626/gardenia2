@@ -1034,7 +1034,7 @@ body .page-header {
   display: flex;
   flex-wrap: wrap;
   margin: 0;
-  padding: 20px 0;
+  padding: 12px 0;
   position: absolute;
   left: 0;
   top: 0;
@@ -1096,7 +1096,7 @@ body .page-header {
 }
 .navbar .hamburger-menu {
   display: inline-block;
-  margin-left: auto;
+  /* margin-left: auto; */
 }
 
 /* SLIDER */
